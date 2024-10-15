@@ -33,7 +33,10 @@ Chaque dossier de carte contient une description ainsi qu'une capture d'écran a
 
 ## Contribution
 
-Si vous possédez des cartes ou des informations supplémentaires sur Epicube, n'hésitez pas à contribuer à ce projet d'archivage. Veuillez respecter la structure des dossiers lors de l'ajout de nouvelles cartes.
+Si vous possédez des cartes ou des informations supplémentaires sur Epicube, n'hésitez pas à contribuer à ce projet d'archivage.
+<br>
+<br>
+Veuillez respecter la structure des dossiers lors de l'ajout de nouvelles cartes, vous pouvez aussi vous référer à notre [guide de contribution](https://github.com/Epicube-Archive/.github/blob/main/CONTRIBUTING.md) pour en apprendre plus sur la manière de contribuer.
 
 ## Licence
 
